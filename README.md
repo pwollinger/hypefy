@@ -17,4 +17,4 @@ Data Science project focused in extract and data from Spotify API with the contr
 * [Medium - Streamlit, Framework Every Data Scientist Must Know](https://medium.com/datadriveninvestor/streamlit-framework-every-data-scientist-must-know-7fa0ae775d6a)
 * [Medium - Data Analytics to Web App: Streamlit Made Easy](https://towardsdatascience.com/data-analytics-to-web-app-streamlit-made-easy-ed687266f0e8)
 
-For now this is all folks! Stay tuned for more info!
+For now that's all folks! Stay tuned for more info!
